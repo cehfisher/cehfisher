@@ -13,7 +13,7 @@ I focus on building and growing accessibility programs, creating accessible solu
 ## 💻 Top 3 Professional Highlights
 1. **Created [Google’s Learn Accessibility course](https://web.dev/learn/accessibility):** A free, comprehensive resource to help developers build more inclusive web experiences.
 2. **Built the [A11y Style Guide](https://a11y-style-guide.com/style-guide):** A helpful resource for designing and developing accessible, inclusive websites.
-3. **Spoke on an off-Broadway stage at [Smashing Conference NYC](https://smashingconf.com/ny-2024):** Delivered a talk on *How to Use AI to Build Accessible Products* to an incredible audience of designers and developers.
+3. **Spoke at [Smashing Conference NYC](https://smashingconf.com/ny-2024):** Delivered a talk on *How to Use AI to Build Accessible Products* to an amazing audience of designers and developers.
 
 ## 🌟 Fun Facts
 - I'm a gardening enthusiast who loves the smell of steaming mulch in the morning 🌱
