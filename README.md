@@ -6,7 +6,7 @@ I'm an accessibility strategist and digital inclusion expert with 15+ years tran
 I specialize in building and scaling enterprise accessibility programs, developing accessible solutions that leverage emerging technologies including AI, and creating comprehensive accessibility curriculum that educates cross-functional teams. My approach balances compliance requirements with exceptional user experiences.
 
 ## ✨ What I Do
-**Program Management for Accessibility at GitHub:** I help support the Accessibility Champions program, gather valuable feedback from users and customers, and work to make GitHub Copilot AI more accessible for everyone.
+**Program Management for Accessibility at GitHub:** I support the Accessibility Champions program, gather valuable feedback from users and customers, and work to make GitHub Copilot more accessible for everyone.
 
 ## 💻 Tech I Love
 - **Languages:** ARIA, HTML, CSS, JavaScript, and more.
@@ -25,4 +25,6 @@ I specialize in building and scaling enterprise accessibility programs, developi
 
 ---
 
-Thanks for visiting my GitHub profile! Feel free to reach out or explore my repositories. Let's make the web a better, more accessible place together 🫶
+Thanks for visiting my GitHub profile! Feel free to reach out or explore my repositories.  
+
+Let’s connect and build a more accessible web together 🫶
