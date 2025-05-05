@@ -1,6 +1,4 @@
-# 👋 Hi there, I'm Carie!
-
-Welcome to my GitHub profile 😸
+# 😸 Hello, I'm Carie!
 
 ## 🚀 About Me
 I'm an accessibility strategist and digital inclusion expert with 15+ years transforming digital experiences for diverse users. I bridge technical development expertise with inclusive design principles to create technology that truly works for everyone.
@@ -27,4 +25,4 @@ I specialize in building and scaling enterprise accessibility programs, developi
 
 ---
 
-Thanks for visiting! Feel free to reach out or explore my repositories. Let's make the web a better, more accessible place together 🫶
+Thanks for visiting my GitHub profile! Feel free to reach out or explore my repositories. Let's make the web a better, more accessible place together 🫶
