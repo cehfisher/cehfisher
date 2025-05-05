@@ -25,6 +25,4 @@ I specialize in building and scaling enterprise accessibility programs, developi
 
 ---
 
-Thanks for visiting my GitHub profile! Feel free to reach out or explore my repositories.  
-
-Let’s connect and build a more accessible web together 🫶
+Thanks for visiting my GitHub profile! Let’s connect and build a more accessible web together 🫶
