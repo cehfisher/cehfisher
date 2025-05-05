@@ -1,3 +1,5 @@
+![The GitHub Octocat mascot surrounded by accessibility symbols, including a wheelchair icon, sound waves, Braille dots, a keyboard icon, and sign language gestures, on a blue gradient background](https://github.com/user-attachments/assets/2fe304ba-336c-4d06-8a0c-8b03f8b6433e)
+
 # 😸 Hello, I'm Carie!
 
 ## 🚀 About Me
