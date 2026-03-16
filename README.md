@@ -21,8 +21,9 @@ I focus on building and growing accessibility programs, creating accessible solu
 - I’m passionate about making code usable, beautiful, and inclusive 🦾
 
 ## 📢 Let's Connect
-- 💼 [LinkedIn](https://linkedin.com/in/cariefisher)  
-- 🐦 [Bluesky](https://bsky.app/profile/cariefisher.bsky.social)  
-- 🐘 [Mastodon](https://mstdn.social/@cariefisher)  
+- 💼 [LinkedIn](https://linkedin.com/in/cariefisher)
+- 👩‍💻 [CodePen](https://codepen.io/cariefisher)
+- 🐦 [Bluesky](https://bsky.app/profile/cariefisher.bsky.social)
+- 🐘 [Mastodon](https://mstdn.social/@cariefisher)
 
 ## Together, we can make the web a better, more accessible place 🫶
